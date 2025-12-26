@@ -1,2 +1,7 @@
-{ "useNativeGame": false }
-
+{
+  "useNativeGame": false,
+  "gameURL": "https://puzzl.pro/game",
+  "minBuild": 10,
+  "maxBuild": 50,
+  "rollout": 0.5
+}
