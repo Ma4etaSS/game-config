@@ -1,1 +1,4 @@
-{  "useNativeGame": false }
+{
+  "useNativeGame": false,
+  "gameURL": "https://puzzl.pro/game/"
+}
